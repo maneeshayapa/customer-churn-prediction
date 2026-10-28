@@ -1,0 +1,8 @@
+# Add project dependencies here.
+
+streamlit
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
